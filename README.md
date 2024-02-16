@@ -9,7 +9,7 @@ This script allows automatic update with this script.
 
 ## 🟢 run the command
 ```shell
-wget -qO arupdate.sh https://raw.githubusercontent.com/HerculesNode/ar/main/arupdate.md && chmod +x arupdate.sh && bash arupdate.sh
+wget -qO arupdate.sh https://raw.githubusercontent.com/0xOptimusPrime/ar/main/arupdate.md && chmod +x arupdate.sh && bash arupdate.sh
 ```
 #### 1-) for installation type 1 and press enter
 #### 2-) Type your gateway name and press enter
