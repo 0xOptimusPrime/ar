@@ -48,7 +48,7 @@ fi
 
 services () {
 
-    sudo tee /root/testnet-contract/tools/update.ts > /dev/null <<EOF
+    sudo tee /root/ar-io-node/testnet-contract/tools/update.ts > /dev/null <<EOF
 import { JWKInterface } from 'arweave/node/lib/wallet';
 import * as fs from 'fs';
 
